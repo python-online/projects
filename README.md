@@ -4,7 +4,9 @@ Welcome to Python Projects! This repository contains a variety of Python project
 
 ## How to Use This Repository
 
-This repository is organized into different project categories. Each project comes with a detailed description, requirements, and step-by-step instructions to guide you through the implementation. We recommend starting with projects that match your current skill level and progressively taking on more challenging ones as you grow more confident in your abilities.
+This repository is organized into different project categories. Each project comes with a detailed description, requirements, and step-by-step instructions to guide you through the implementation.
+
+We recommend starting with projects that match your current skill level and progressively taking on more challenging ones as you grow more confident in your abilities.
 
 ## Project Categories
 
