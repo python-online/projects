@@ -10,7 +10,7 @@ We recommend starting with projects that match your current skill level and prog
 
 ## Project Categories
 
-Here is a list of the project categories available. Click on each category to explore the projects within it:
+Here is a list of projects you can begin with, organized in categories:
 
 ### Beginner Projects
 
